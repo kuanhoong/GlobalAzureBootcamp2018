@@ -7,9 +7,7 @@ On April 21, 2018, all communities will come together once again in the sixth gr
 21 April 2018
 @Cat, Penang
 
-
 Speaker: Dr. Poo Kuan Hoong
-
 
 Title: Machine Learning 101
 
